@@ -101,7 +101,7 @@ img {
   .nav_menu {
     position: fixed;
     background-color: var(--first-color);
-    left: 0;
+    right: 0;
     top: -100%; /* set at -100% instead of 0 will make it disappear for responsiveness */
     width: 100%;
     padding: 5rem 0 4rem;
