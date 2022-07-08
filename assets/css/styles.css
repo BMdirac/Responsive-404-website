@@ -133,7 +133,7 @@ img {
 
 /* Show menu */
 .show_menu {
-  top: 0;
+  top: 0; /* this is used in javascript to display menu when the toggle is click */
 }
 
 /*=============== HOME ===============*/
